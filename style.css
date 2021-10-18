@@ -63,14 +63,14 @@ h1{
     margin: 15px;
 }
 #fullstack{
-    border-left: 7px solid;
+    border-left: 7px solid orangered;
     background-image: linear-gradient(180deg, red tomato);
     height: 80%;
  border-image-slice:1 ;
  padding: 10px;
 }
 #baby{
-    border-left: 7px solid;
+    border-left: 7px solid turquoise;
     background-image: linear-gradient(180deg,blue tomato);
     height: 80%;
  border-image-slice: 1;
